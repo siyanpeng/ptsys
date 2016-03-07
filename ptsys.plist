@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chinalifep.oa</string>
+				<string>com.chinalife.LifeGatewayb</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ptsys</string>
+				<string>人寿门户</string>
 			</dict>
 		</dict>
 	</array>
